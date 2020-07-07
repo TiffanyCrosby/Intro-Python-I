@@ -14,6 +14,8 @@ import sys
 # Print out the OS platform you're using:
 # YOUR CODE HERE
 
+print(sys.getwindowsversion()[0])
+
 # Print out the version of Python you're using:
 # YOUR CODE HERE
 
